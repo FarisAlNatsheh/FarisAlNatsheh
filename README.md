@@ -27,6 +27,9 @@
 <p align="center">
   The beautiful cat in that profile picture is my cat.
 </p>
+<p align="center">
+  Currently interested in MLOps
+</p>
 
 ---
 
