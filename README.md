@@ -7,7 +7,6 @@
   Faris Al-Natsheh
 </h3>
 
-
 <p align="center">
   <img src="https://media1.tenor.com/m/7WpdbjmyJ4gAAAAC/boomb-cat-boomb.gif" width="30" style="vertical-align: middle; margin-right: 10px;" />
  Certified Java Enjoyer
@@ -117,8 +116,12 @@
   <a href="mailto:natshehfares32@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-
   <a href="https://www.linkedin.com/in/faris-al-natsheh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <h4 align="center">
+    <a href="https://www.falnatsheh.com/" target="_blank">
+      My Website
+    </a>
+  </h4>
 </div>
